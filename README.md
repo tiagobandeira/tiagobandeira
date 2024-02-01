@@ -12,7 +12,7 @@
 ✍🏻 &nbsp; Assuntos que tenho me enteressado ultimamente: programação, ciência de dados, aprendizado de máquina. \
 🎸 &nbsp; No meu tempo livre eu gosto de tocar violão.
 
-<img alt="Night Coding" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-com-fundo-transparente-1.gif" align="right" width="180em"/>
+<img alt="Night Coding" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-com-fundo-transparente-1.gif" align="right" style="max-width: 50%; display: inline-block;" width="180em"/>
 
 
 ### 🛠 &nbsp; Algumas tecnologias que já utilizei
