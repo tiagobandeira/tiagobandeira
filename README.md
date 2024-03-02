@@ -9,7 +9,7 @@
 🎓 &nbsp; Sou técnico em informática e ex-estudante de Engenharia Mecânica. \
 📚 &nbsp; Temas que tenho enteresse: matemática, computação, engenharia, ciência e tecnologia. \
 🌱 &nbsp; Estou sempre buscando aprender novos assuntos e tecnologias.\
-✍🏻 &nbsp; Assuntos que tenho me enteressado ultimamente: programação, ciência de dados, aprendizado de máquina. \
+✍🏻 &nbsp; Assuntos que tenho me interessado ultimamente: programação, ciência de dados, aprendizado de máquina. \
 🎸 &nbsp; No meu tempo livre eu gosto de tocar violão.
 
 <img alt="Night Coding" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-com-fundo-transparente-1.gif" align="right" width="20%"/>
